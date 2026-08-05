@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&width=700&section=header&text=Adolfo+López&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software+Developer+%7C+Co-CEO+Novus+Media+Center&descSize=28&descAlignY=60&animationDuration=2.5&fontWeight=800" alt="Adolfo López - Computer Systems Engineer" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&width=700&section=header&text=Adolfo+López&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Computer+Systems+Engineer%7+&descSize=28&descAlignY=60&animationDuration=2.5&fontWeight=800" alt="Adolfo López - Computer Systems Engineer" style="max-width: 100%;"/>
 </div>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Adolfo+López;Soy+desarrollador+Backend;Soy+desarrollador+de+Software;Soy+SysAdmin;Tecnico+en+Programación;Ing+en+Sistemas+Computacionales;"/></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Adolfo+López;Soy+desarrollador+Backend;Soy+desarrollador+de+Software;Soy+SysAdmin+Linux;Tecnico+en+Programación;Ing+en+Sistemas+Computacionales;"/></a>
 </p>
 
  <h1>👨🏻‍💻 Hola, soy adolfodev, ¡Bienvenido a mi perfil de GitHub!</h1>
@@ -41,7 +41,7 @@
 [![data](https://skillicons.dev/icons?i=nodejs,express,nestjs,npm,spring,mysql,postgres,mongodb)](https://skillicons.dev)
 
 **DevOps & Infraestructura**<br>
-[![data](https://skillicons.dev/icons?i=azure,aws,cloudflare,vercel,jenkins,docker,linux,kali,debian,ubuntu,redhat,windows)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=azure,aws,cloudflare,vercel,jenkins,docker,kubernetes,linux,kali,debian,ubuntu,redhat,windows)](https://skillicons.dev)
 
 **IDEs y Editores**<br>
 [![data](https://skillicons.dev/icons?i=eclipse,idea,sublime,vscode,visualstudio,androidstudio,vim,neovim)](https://skillicons.dev)
@@ -52,10 +52,10 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodevux&theme=dark" alt="GitHub Stats" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodevux&type=languages&theme=dark" alt="Top Languages" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodevux&type=contributions&theme=dark" alt="Contributions" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodevux&type=top-repos&theme=dark" alt="Top Repos" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&theme=dark" alt="GitHub Stats" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&type=languages&theme=dark" alt="Top Languages" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&type=contributions&theme=dark" alt="Contributions" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev8&type=top-repos&theme=dark" alt="Top Repos" />
 </p>
 
 <h2>🤝🏻 Contacto</h2>
