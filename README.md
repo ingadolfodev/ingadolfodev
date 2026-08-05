@@ -1,20 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&width=700&section=header&text=Adolfo+López&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software+Developer+%7C+Co-CEO+Novus+Media+Center&descSize=28&descAlignY=60&animationDuration=2.5&fontWeight=800" alt="Adolfo López - Software Developer | Co-CEO Novus Media Center" style="max-width: 100%;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&width=700&section=header&text=Adolfo+López&fontSize=90&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=Software+Developer+%7C+Co-CEO+Novus+Media+Center&descSize=28&descAlignY=60&animationDuration=2.5&fontWeight=800" alt="Adolfo López - Computer Systems Engineer" style="max-width: 100%;"/>
 </div>
 
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/adolfodevux">adolfodevux</a> Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/adolfodev">adolfodev</a> Profile 👋</h1>
 </p>
 
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Adolfo+López;Co-CEO+de+Novus+Media+Center;Soy+desarrollador+Backend;Soy+desarrollador+de+Software;Tecnico+en+Programación;Ing+en+Sistemas+Computacionales;"/></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=¡Bienvenido+a+mi+perfil+de+Github!;Mi+nombre+es+Adolfo+López;Soy+desarrollador+Backend;Soy+desarrollador+de+Software;Soy+SysAdmin;Tecnico+en+Programación;Ing+en+Sistemas+Computacionales;"/></a>
 </p>
 
- <h1>👨🏻‍💻 Hola, soy adolfodevux, ¡Bienvenido a mi perfil de GitHub!</h1>
+ <h1>👨🏻‍💻 Hola, soy adolfodev, ¡Bienvenido a mi perfil de GitHub!</h1>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adolfodevux&label=Visitas&color=1e40af&style=for-the-badge" alt="Profile Views adolfodevux" />
   <img src="https://img.shields.io/github/followers/adolfodevux?label=Seguidores&style=for-the-badge&color=1e40af" alt="GitHub Followers adolfodevux" />
-  <img src="https://img.shields.io/badge/Foco-Novus%20Media%20Center-1e40af?style=for-the-badge" alt="Focus Novus Media Center" />
   <img src="https://img.shields.io/badge/CECyTEM-Técnico%20Programación-1e40af?style=for-the-badge" alt="CECyTEM Técnico Programación" />
   <img src="https://img.shields.io/badge/TecNM-Ing%20Sistemas%20Computacionales-1e40af?style=for-the-badge" alt="TecNM Ing. en Sistemas Computacionales" />
 </p>
