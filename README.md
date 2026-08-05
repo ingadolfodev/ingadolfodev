@@ -25,10 +25,9 @@
   <li> 🏛️ Estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Toluca (TecNM).</li>
   <li> 🚀 Especializado desarrollo de Software, desarrollo Backend y desarrollo Mobile</li>
   <li> 💼 Trabajo como desarrollador de manera independiente, colaborando en proyectos de software personalizados para clientes.</li>
-  <li> 🥇 Cofundador y Co-CEO de Novus Media Center - ecosistema autosustentable de Fintech y Educación.</li>
   <li> 🌐 Idiomas: Español (nativo), Inglés (intermedio).</li>
   <li> 🎮 Intereses: Programación, adminitraccion de servidores Linux, desarrollo de mods en Minecraft, entre otros.</li>
-  <li> 🧐 Echa un vistazo a mi <a href="https://devuxforge.blog">portafolio web</a>.</li>
+  <li> 🧐 Echa un vistazo a mi <a href="https://devuxhub.com">portafolio web</a>.</li>
 </ul>
 
 <h2>🛠️ Habilidades y Herramientas</h2>
