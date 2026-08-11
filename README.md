@@ -12,7 +12,6 @@
 
  <h1>👨🏻‍💻 Hola, soy adolfodev, ¡Bienvenido a mi perfil de GitHub!</h1>
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adolfodevux&label=Visitas&color=1e40af&style=for-the-badge" alt="Profile Views adolfodevux" />
   <img src="https://img.shields.io/github/followers/adolfodevux?label=Seguidores&style=for-the-badge&color=1e40af" alt="GitHub Followers adolfodevux" />
   <img src="https://img.shields.io/badge/CECyTEM-Técnico%20Programación-1e40af?style=for-the-badge" alt="CECyTEM Técnico Programación" />
   <img src="https://img.shields.io/badge/TecNM-Ing%20Sistemas%20Computacionales-1e40af?style=for-the-badge" alt="TecNM Ing. en Sistemas Computacionales" />
@@ -38,16 +37,16 @@
 [![data](https://skillicons.dev/icons?i=html,css,react,nextjs,jquery,astro,tailwind,scss,bootstrap)](https://skillicons.dev)
 
 **Backend & Bases de Datos**<br>
-[![data](https://skillicons.dev/icons?i=nodejs,express,nestjs,npm,spring,mysql,postgres,mongodb)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,npm,spring,mysql,postgres,mongodb,sqlite,supabase)](https://skillicons.dev)
 
 **DevOps & Infraestructura**<br>
-[![data](https://skillicons.dev/icons?i=azure,aws,cloudflare,vercel,jenkins,docker,kubernetes,linux,kali,debian,ubuntu,redhat,windows)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=azure,aws,cloudflare,vercel,jenkins,docker,kubernetes,linux,kali,debian,ubuntu,redhat,arch,windows)](https://skillicons.dev)
 
 **IDEs y Editores**<br>
 [![data](https://skillicons.dev/icons?i=eclipse,idea,sublime,vscode,visualstudio,androidstudio,vim,neovim)](https://skillicons.dev)
 
 **Apps y Productividad**<br>
-[![data](https://skillicons.dev/icons?i=git,github,gmail,discord,instagram,twitter,postman,notion,figma,stackoverflow,linkedin)](https://skillicons.dev)
+[![data](https://skillicons.dev/icons?i=git,github,gmail,discord,instagram,twitter,postman,raspberrypi,notion,figma,stackoverflow,linkedin)](https://skillicons.dev)
 
 
 <h2>📊 GitHub Stats</h2>
