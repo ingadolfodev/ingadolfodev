@@ -12,7 +12,6 @@
 
  <h1>👨🏻‍💻 Hola, soy adolfodev, ¡Bienvenido a mi perfil de GitHub!</h1>
  <p align="center">
-  <img src="https://img.shields.io/github/followers/adolfodevux?label=Seguidores&style=for-the-badge&color=1e40af" alt="GitHub Followers adolfodevux" />
   <img src="https://img.shields.io/badge/CECyTEM-Técnico%20Programación-1e40af?style=for-the-badge" alt="CECyTEM Técnico Programación" />
   <img src="https://img.shields.io/badge/TecNM-Ing%20Sistemas%20Computacionales-1e40af?style=for-the-badge" alt="TecNM Ing. en Sistemas Computacionales" />
 </p>
@@ -25,7 +24,7 @@
   <li> 💼 Trabajo como desarrollador de manera independiente, colaborando en proyectos de software personalizados para clientes.</li>
   <li> 🌐 Idiomas: Español (nativo), Inglés (intermedio).</li>
   <li> 🎮 Intereses: Programación, adminitraccion de servidores Linux, desarrollo de mods en Minecraft, entre otros.</li>
-  <li> 🧐 Echa un vistazo a mi <a href="https://devuxhub.com">portafolio web</a>.</li>
+  <li> 🧐 Echa un vistazo a mi <a href="https://adolfodev.com">portafolio web</a>.</li>
 </ul>
 
 <h2>🛠️ Habilidades y Herramientas</h2>
@@ -51,10 +50,10 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&theme=dark" alt="GitHub Stats" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&type=languages&theme=dark" alt="Top Languages" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev&type=contributions&theme=dark" alt="Contributions" />
-  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=adolfodev8&type=top-repos&theme=dark" alt="Top Repos" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ingadolfodev&theme=dark" alt="GitHub Stats" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ingadolfodev&type=languages&theme=dark" alt="Top Languages" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ingadolfodev&type=contributions&theme=dark" alt="Contributions" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=ingadolfodev8&type=top-repos&theme=dark" alt="Top Repos" />
 </p>
 
 <h2>🤝🏻 Contacto</h2>
